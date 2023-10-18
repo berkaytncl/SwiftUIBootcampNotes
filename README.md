@@ -1,2 +1,2 @@
 # SwiftUIBootcampNotes
-This repository is the SwiftUI Bootcamp content of Swiftful Thinking youtube channel
+This repository contains the SwiftUI Bootcamp content of the Swiftful Thinking YouTube channel
